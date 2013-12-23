@@ -1,0 +1,23 @@
+{
+  "name": "beefy-requirejs-example",
+  "version": "0.1.0",
+  "description": "An example project for getting started with beefy + requirejs",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "requirejs": "~2.1.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/iceddev/beefy-requirejs-example"
+  },
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceddev/beefy-requirejs-example/issues"
+  },
+  "homepage": "https://github.com/iceddev/beefy-requirejs-example"
+}
