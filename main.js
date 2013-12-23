@@ -1,9 +1,9 @@
 define([
   './another-module'
 ], function(another){
-  'use strict';
 
-  console.log('inside main');
+  console.log('inside main.js');
 
-  console.log('another-module dep:', another);
+  console.log('another-module dependency:', another);
+
 });

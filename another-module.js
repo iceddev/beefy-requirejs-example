@@ -1,9 +1,9 @@
 define(function(){
 
-  'use strict';
+  console.log('inside another-module.js');
 
-  console.log('inside main2');
-
-  return 'main2';
+  return {
+    something: 'yup, another module'
+  };
 
 });
